@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/node.infinity-economics.api.svg)]() [![npm](https://img.shields.io/npm/l/node.infinity-economics.api.svg)]()
+
 Infinity Economics Node API (node.infinity-economics.api)
 ============
 Node Infinity Economics API is an asynchronous node.js library for the Infinity Economics (XIN) Node API - http://infinity-economics.org.
