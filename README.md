@@ -44,7 +44,7 @@ const IEN = new InfinityEconomicsNode(host, port, ssl);
 ```
 ----
 ```javascript
-IEN.(PARAMETERS, CALLBACK);
+IEN.METHOD_NAME(PARAMETERS, CALLBACK);
 ```
 ## Donation
 
