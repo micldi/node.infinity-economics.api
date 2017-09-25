@@ -1,0 +1,25 @@
+{
+  "name": "node.infinity-economics.api",
+  "version": "1.0.0",
+  "description": "Node Infinity Economics API is an asynchronous node.js wrapper for the Infinity Economics (XIN) Node API - http://infinity-economics.org/.",
+  "main": "node.infinity-economics.api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mic_ldi (micldi) <mic@ldi.pl>",
+  "repostitory": {
+    "type": "git",
+    "url": "https://github.com/micldi/node.infinity-economics.api"
+  },
+  "keywords": [
+    "xin",
+    "infinity",
+    "economics",
+    "infinity-economics",
+    "api wrapper"
+  ],
+  "dependencies": {
+    "request": "^2.82.0"
+  },
+  "license": "MIT"
+}
