@@ -45,7 +45,7 @@ const InfinityEconomicsNode = function (host, port, ssl) {
 	            callback(null, errorCallback);
 	        } else {
 
-	            callback(response.body, null);
+	            callback(JSON.parse(response.body), null);
 	        }
 	    });
 	};
